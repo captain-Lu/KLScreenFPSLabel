@@ -1,0 +1,2 @@
+# KLScreenFPSLabel
+使用CADisplayLink封装用于检测图文混排界面的FPS
